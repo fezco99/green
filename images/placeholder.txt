@@ -1,0 +1,1 @@
+This folder contains placeholder images. Add your photos (for example: thabo-photo.jpg and samkelo-photo.jpg) here and update index.html to reference images/thabo-photo.jpg and images/samkelo-photo.jpg.
